@@ -1,4 +1,4 @@
-# 
+# Código abierto AI Object Detection with TensorFlow.js temas. Con IA en la nube y escalabilidad de la IA — optimizado para el máximo rendimiento.
 
 
 
